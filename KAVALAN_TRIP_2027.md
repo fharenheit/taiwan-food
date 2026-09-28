@@ -8,14 +8,16 @@
 
 | 날짜 | 시간 | 계획 | 이동·메모 |
 |---|---|---|---|
-| 3/26 금 | 낮–15:00 | [타오위안공항](https://www.google.com/maps/search/?api=1&query=Taiwan+Taoyuan+International+Airport) → [타이베이역](https://www.google.com/maps/search/?api=1&query=Taipei+Main+Station) → [이란역](https://www.google.com/maps/search/?api=1&query=Yilan+Station), 숙소 체크인 | 공항 MRT와 타이베이역 출발 대만철도 이용. 입국 시간이 늦으면 저녁 일정 생략 |
-|  | 17:00–20:00 | [이란 동먼 야시장](https://www.google.com/maps/search/?api=1&query=Yilan+Dongmen+Night+Market) 주변 산책·저녁 | 숙소 근처 로컬 식당도 가능. [기존 이란 식당 목록](README.md#3-이란뤄둥터우청--kavalan-여행과-함께-볼-9곳) 참고 |
+| 3/26 금 | 낮–15:00 | [타오위안공항](https://www.google.com/maps/search/?api=1&query=Taiwan+Taoyuan+International+Airport) → [타이베이역](https://www.google.com/maps/search/?api=1&query=Taipei+Main+Station) → [이란역](https://www.google.com/maps/search/?api=1&query=Yilan+Station) | 공항 MRT와 대만철도 이용. 15:00보다 일찍 도착하면 숙소 입실 가능 시각까지 짐 보관 방법 확인 |
+|  | 15:00–16:00 | Airbnb 체크인 | Jessie House는 15:00–21:00, Lucid Dream은 15:00–17:00, 우제 타운하우스는 15:00 이후 입실. 선택한 숙소의 규칙을 다시 확인 |
+|  | 17:00–20:00 | 이란 시내 저녁: [훙러우 중식당(紅樓中餐廳, 훙러우 중찬팅)](https://www.google.com/maps/search/?api=1&query=%E7%B4%85%E6%A8%93%E4%B8%AD%E9%A4%90%E5%BB%B3+%E5%AE%9C%E8%98%AD) 예약 또는 [동먼 야시장](https://www.google.com/maps/search/?api=1&query=Yilan+Dongmen+Night+Market) | 6명이 한 상에서 오리 요리를 먹고 싶으면 훙러우를 먼저 예약. 항공편이 늦으면 야시장으로 변경 |
 | 3/27 토 | 08:30–09:30 | 아침 후 증류소로 이동 | 이란역 부근에서 택시 또는 버스. 10시 방문을 목표로 여유 있게 출발 |
 |  | 10:00–12:30 | **[카발란 증류소](https://www.google.com/maps/search/?api=1&query=Kavalan+Whisky+Distillery+Yilan)**: 제조 과정 견학, 시음, 숍 | [공식 투어 예약 페이지](https://www.kavalanwhisky.com/en/reservation.php?act=distillery)에서 6명 예약 가능 여부와 안내 언어 확인. DIY 블렌딩 또는 유료 시음은 별도 확인 |
-|  | 12:30–14:00 | 점심 | 증류소 안 또는 인근에서 식사 |
-|  | 14:00–16:00 | 원산(員山) 주변 자유시간 | 가까운 [짐스 대디 양조장 지도](https://www.google.com/maps/search/?api=1&query=Jim+and+Dads+Brewing+Company+Yilan) 또는 이란 시내. 추가 시음 시 택시 이용. [양조장 안내](https://travel.yilan.gov.tw/zh-tw/attraction/446/) |
-|  | 저녁 | 이란 시내 식사·숙박 | 다음 날 귀국 이동을 고려해 이란에 연박 |
-| 3/28 일 | 09:00–12:00 | [자오시역](https://www.google.com/maps/search/?api=1&query=Jiaoxi+Station+Yilan)·[탕웨이거우 온천공원](https://www.google.com/maps/search/?api=1&query=Tangweigou+Hot+Spring+Park+Jiaoxi) 주변 산책 또는 이란 시내 자유시간 | 비가 오거나 항공편이 이르면 이란 시내 일정으로 축소 |
+|  | 12:30–14:00 | [바자 휴양 어장(八甲休閒魚場, 바자 시우셴 위창)](https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E7%94%B2%E4%BC%91%E9%96%92%E9%AD%9A%E5%A0%B4+%E5%93%A1%E5%B1%B1)에서 점심 | 위안산향의 은어 요리 식당. 증류소에서 택시로 이동하고, 토요일 6명 좌석을 사전 문의 |
+|  | 14:00–16:00 | 원산(員山, 위안산) 주변 자유시간 | 가까운 [짐스 대디 양조장 지도](https://www.google.com/maps/search/?api=1&query=Jim+and+Dads+Brewing+Company+Yilan) 또는 이란 시내. 추가 시음 시 택시 이용. [양조장 안내](https://travel.yilan.gov.tw/zh-tw/attraction/446/) |
+|  | 저녁 | [이란 동먼 야시장](https://www.google.com/maps/search/?api=1&query=Yilan+Dongmen+Night+Market)에서 여러 로컬 음식을 나눠 먹거나 이란 시내 식사 | 6명이 한 테이블에 앉는 방식이 아니므로 취향대로 나눠 먹고 합류하는 일정. 이후 이란 시내 위스키 바는 [별도 목록](WHISKY_BARS.md) 참고 |
+| 3/28 일 | 08:30–09:00 | 짐 정리·Airbnb 체크아웃 | 세 후보 모두 **11:00 이전 퇴실**. 자오시를 갈 경우 아침에 일찍 퇴실하고 짐 이동·보관 방법을 결정 |
+|  | 09:00–12:00 | 이란시 [이샹 식당(一香飲食店, 이샹 인스뎬)](https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E9%A6%99%E9%A3%B2%E9%A3%9F%E5%BA%97+%E5%BA%B7%E6%A8%82%E8%B7%AF137%E5%B7%B77%E8%99%9F)에서 마장면·완탕 아침 겸 점심, 또는 [자오시역](https://www.google.com/maps/search/?api=1&query=Jiaoxi+Station+Yilan)·[탕웨이거우 온천공원](https://www.google.com/maps/search/?api=1&query=Tangweigou+Hot+Spring+Park+Jiaoxi) | 6명 좌석과 대기를 고려하면 이샹은 일찍 방문. 자오시를 선택하면 짐 보관 가능 여부와 공항행 열차 시각 확인 |
 |  | 13:00–16:00 | 이란 → 타이베이역 → 타오위안공항 | **저녁 이후 항공편**을 전제로 한 여유 시간. 실제 항공편에 맞춰 앞당길 것 |
 
 증류소는 **이란현 원산향 원산로 2단 326호(宜蘭縣員山鄉員山路二段326號)**에 있다. 이란현 관광 안내의 개방시간은 **매일 09:00–18:00**이다. 카발란은 **2026년 3월 1일부터 입장료를 적용**한다고 공지했다. 현재 일반 입장료로 안내되는 금액은 **NT$200 (약 ₩8,600)**이며, 2027년 금액은 예약 전에 확인해야 한다. 전화는 **+886-3-922-9000 내선 1104**다. [이란현 관광 안내](https://travel.yilan.gov.tw/zh-tw/attraction/442/), [카발란 입장료 공지](https://www.kavalanwhisky.com/en/news.php?act=view&id=262), [현행 요금 설명](https://taiwanderers.com/kavalan-whisky-distillery-yilan/)
@@ -23,6 +25,19 @@
 **공식 예약:** [카발란 증류소 투어 예약 페이지](https://www.kavalanwhisky.com/en/reservation.php?act=distillery). 처음 접속하면 성인 여부 확인 화면이 표시된다. 예약 페이지는 카발란 [공식 링크 모음](https://linktr.ee/kavalanwhisky)의 “Distillery Tour Reservation”에서도 찾을 수 있다. 품평실 이용은 [별도 안내 링크](https://bit.ly/KavalanWarehouseTasting)를 확인한다.
 
 **주류 쇼핑:** [타이베이·이란 리커샵과 카발란 증류소 숍 목록](LIQUOR_SHOPS.md)을 참고한다.
+
+**위스키 바:** [이란·타이베이 추천 위스키 바](WHISKY_BARS.md)를 참고한다. 이란 숙박 일정에는 이란시 바가 동선에 맞다.
+
+### 일정에 맞는 식당
+
+| 언제 | 식당·추천 음식 | 위치·예약 메모 |
+|---|---|---|
+| 3/26 저녁 | **훙러우 중식당(紅樓中餐廳, 훙러우 중찬팅)**: 이란 특산 체리덕을 여럿이 나눠 먹는 식사 | 이란시 민취안로 2단 36호 6층(宜蘭市民權路二段36號6樓) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%E7%B4%85%E6%A8%93%E4%B8%AD%E9%A4%90%E5%BB%B3+%E5%AE%9C%E8%98%AD) · [호텔 공식 식당 페이지](https://redlantern.silksplace-yilan.com.tw/) · **6명 자리와 오리 요리를 예약 때 함께 확인** |
+| 3/27 점심 | **바자 휴양 어장(八甲休閒魚場, 바자 시우셴 위창)**: 위안산향 은어 요리 | 이란현 위안산향 바자로 1-9호(宜蘭縣員山鄉八甲路1-9號) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E7%94%B2%E4%BC%91%E9%96%92%E9%AD%9A%E5%A0%B4+%E5%93%A1%E5%B1%B1) · [이란현 관광 안내](https://travel.yilan.gov.tw/zh-tw/attraction/440/) · 토요일 점심 영업 안내는 11:00–14:30. 6명 예약·메뉴 확인 |
+| 3/27 저녁 | **동먼 야시장(東門夜市, 둥먼 예스)**: 파전, 튀김, 국수 등 로컬 음식 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yilan+Dongmen+Night+Market) · [이란현 관광 안내](https://travel.yilan.gov.tw/zh-tw/attraction/233/) · 단체 좌석을 기대하기 어려워 여러 가게를 자유롭게 이용 |
+| 3/28 아침 겸 점심 | **이샹 식당(一香飲食店, 이샹 인스뎬)**: 마장면·완탕탕 | 이란시 캉러로 137항 7호(宜蘭市康樂路137巷7號) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E9%A6%99%E9%A3%B2%E9%A3%9F%E5%BA%97+%E5%BA%B7%E6%A8%82%E8%B7%AF137%E5%B7%B77%E8%99%9F) · [매장 정보](https://supertaste.tvbs.com.tw/infocard/5977) · 시장 안 작은 식당이라 6명이 동시에 앉기 어려울 수 있음 |
+
+식당 영업시간과 2027년 예약 가능 여부는 아직 확정되지 않았다. **훙러우와 바자 어장은 출발 전에 6명 자리와 메뉴를 확인**하고, 항공편 도착이 늦으면 첫날 예약 시각을 무리하게 잡지 않는다.
 
 ### 주요 장소 Google Maps
 
@@ -64,13 +79,15 @@
 
 **위치 우선순위는 [이란역](https://www.google.com/maps/search/?api=1&query=Yilan+Station)·[이란 버스터미널](https://www.google.com/maps/search/?api=1&query=Yilan+Transfer+Station) 주변 독채**다. 도착일과 귀국일에 짐을 들고 이동하기 쉽고, 27일 증류소행 차량도 여기서 출발시키기 좋다. [이란시 Airbnb 숙소 검색](https://www.airbnb.com/yilan-city-taiwan/stays)에서 **2027년 3월 26일 체크인·28일 체크아웃, 성인 6명, 독채, 침실 3개 이상, 욕실 2개 이상**으로 설정해 살펴보자.
 
-| 후보 | 6명에게 맞는 점 | 이동·확인할 점 |
-|---|---|---|
-| **[Jessie House · 이란시 독채](https://www.airbnb.com/rooms/54118140)** | 침실 3개·침대 6개·욕실 3.5개, 최대 12명. 검토 당시 후기 157개, 평점 4.94. 거실·주방이 넓어 친구 6명이 함께 지내기 좋다. | 호스트 설명상 이란 시내에서 차로 약 5분. **예약 인원에 따라 개방 침실이 달라질 수 있으므로 6명에게 침실 3개와 침대 6개가 모두 제공되는지 확인.** 숙소 규칙에는 보증금 **NT$5,000 (약 ₩214,000)**이 적혀 있다. [이란시 지도](https://www.google.com/maps/search/?api=1&query=Yilan+City+Taiwan) |
-| **[Lucid Dream · 원산향 독채](https://www.airbnb.com/rooms/770137088808322492)** | 6명 기준, 침실 3개·침대 4개·욕실 4.5개. 커플 세 팀이 방을 나눠 쓰기 편하다. | 호스트 설명상 이란 시내에서 차로 약 10분. 역 왕복과 저녁 외출에 차량이 필요하다. 6명이 각자 침대를 원하면 침대 구성을 확인. [원산향 지도](https://www.google.com/maps/search/?api=1&query=Yuanshan+Township+Yilan) |
-| **[우제·얼제역 인근 타운하우스](https://www.airbnb.com/rooms/1094576572735154350)** | 정확히 6명, 침실 3개·침대 3개·욕실 3.5개인 독채. 검토 당시 평점 4.85, 후기 26개. | 이란역보다는 [얼제역](https://www.google.com/maps/search/?api=1&query=Erjie+Station+Yilan) 쪽이다. 이란역과 증류소 왕복 이동이 늘어나므로 차량을 쓸 때 후보로 적합하다. 계단이 있는 4층 집이다. |
+| 후보 | 체크인·체크아웃 (현지시간) | 6명에게 맞는 점 | 이동·확인할 점 |
+|---|---|---|---|
+| **[Jessie House · 이란시 독채](https://www.airbnb.com/rooms/54118140)** | **3/26 15:00–21:00 입실 / 3/28 11:00 전 퇴실**. [Airbnb 숙소 규칙](https://www.airbnb.com/rooms/54118140) | 침실 3개·침대 6개·욕실 3.5개, 최대 12명. 검토 당시 후기 157개, 평점 4.94. 거실·주방이 넓어 친구 6명이 함께 지내기 좋다. | 호스트 설명상 이란 시내에서 차로 약 5분. **예약 인원에 따라 개방 침실이 달라질 수 있으므로 6명에게 침실 3개와 침대 6개가 모두 제공되는지 확인.** 숙소 규칙에는 보증금 **NT$5,000 (약 ₩214,000)**이 적혀 있다. [이란시 지도](https://www.google.com/maps/search/?api=1&query=Yilan+City+Taiwan) |
+| **[Lucid Dream · 원산향 독채](https://www.airbnb.com/rooms/770137088808322492)** | **3/26 15:00–17:00 입실 / 3/28 11:00 전 퇴실**. [Airbnb 숙소 규칙](https://www.airbnb.com/rooms/770137088808322492) | 6명 기준, 침실 3개·침대 4개·욕실 4.5개. 커플 세 팀이 방을 나눠 쓰기 편하다. | 호스트 설명상 이란 시내에서 차로 약 10분. 역 왕복과 저녁 외출에 차량이 필요하다. 6명이 각자 침대를 원하면 침대 구성을 확인. [원산향 지도](https://www.google.com/maps/search/?api=1&query=Yuanshan+Township+Yilan) |
+| **[우제·얼제역 인근 타운하우스](https://www.airbnb.com/rooms/1094576572735154350)** | **3/26 15:00 이후 입실 / 3/28 11:00 전 퇴실**. [Airbnb 숙소 규칙](https://www.airbnb.co.kr/rooms/1094576572735154350) | 정확히 6명, 침실 3개·침대 3개·욕실 3.5개인 독채. 검토 당시 평점 4.85, 후기 26개. | 이란역보다는 [얼제역](https://www.google.com/maps/search/?api=1&query=Erjie+Station+Yilan) 쪽이다. 이란역과 증류소 왕복 이동이 늘어나므로 차량을 쓸 때 후보로 적합하다. 계단이 있는 4층 집이며, 호스트가 **거실·식사 공간 카메라**를 고지했다. |
 
 **현재 추천:** 침실 3개와 원하는 침대 수가 6명 예약에 모두 포함된다면 Jessie House를 먼저 확인한다. 이동 거리를 줄이고 싶다면 이란역 도보권 독채 검색 결과를 우선 비교한다. Airbnb 숙소는 예약 전까지 정확한 주소가 공개되지 않을 수 있어 위 지도는 **지역·역 기준**이며, 숙소의 실제 위치를 뜻하지 않는다. 세 후보의 **2027년 3월 26–28일 예약 가능 여부와 총액은 확인되지 않았다.** 날짜와 6명을 넣은 Airbnb 결제 직전 화면에서 청소비·서비스 수수료·취소 조건까지 확인해야 한다.
+
+**입·퇴실 계획:** 26일 입국·열차 지연으로 숙소 체크인 종료 시각을 넘길 수 있으면 예약 전에 늦은 입실 가능 여부를 호스트에게 묻는다. 28일에는 **11:00 전에 짐을 빼야 하므로** 오전 자오시 일정에 가져갈 짐과 역 보관 가능 여부를 미리 확인한다. 체크인 방법과 정확한 주소는 예약 후 Airbnb 안내에서 확인한다.
 
 **예약 순서:** 항공편 확정 → Airbnb 독채 2박의 인원·침실·침대·욕실·총액 확인 → [카발란 공식 예약 페이지](https://www.kavalanwhisky.com/en/reservation.php?act=distillery)에서 27일 안내 시간·언어·6명 자리 확인 → 유료 시음·DIY와 입장료 확인 → 26일·28일 열차 예약. 정기 안내 시각과 유료 체험 가격은 2027년 일정으로 확인되지 않았으므로 확정 예약처럼 취급하지 않는다.
 
