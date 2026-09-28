@@ -2,6 +2,8 @@
 
 **카발란 증류소 일정:** [2027년 3월 26–28일 이란 2박 3일 여행 계획](KAVALAN_TRIP_2027.md)
 
+**이동 동선 지도:** [날짜별 Google Maps 길찾기](ROUTE_MAP.md)
+
 **주류 쇼핑:** [타이베이·이란 리커샵 목록과 Google Maps](LIQUOR_SHOPS.md)
 
 **위스키 바:** [이란·타이베이 추천 위스키 바](WHISKY_BARS.md)
