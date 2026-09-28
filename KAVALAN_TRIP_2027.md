@@ -15,9 +15,10 @@
 |  | 16:00–17:00 | [지미 광장(幾米廣場, 지미 광창)·디우디우당 숲 공원(丟丟噹森林公園, 디우디우당 선린 궁위안)](https://www.google.com/maps/search/?api=1&query=%E5%B9%BE%E7%B1%B3%E5%BB%A3%E5%A0%B4+%E5%AE%9C%E8%98%AD) 산책·사진 | 이란역 바로 앞이라 숙소 위치와 도착 시각이 맞으면 20–40분 들르기 좋음. 실내 관광을 원하면 17:00에 닫는 [이란 설지 기념관(宜蘭設治紀念館, 이란 서즈 지녠관)](https://www.google.com/maps/search/?api=1&query=%E5%AE%9C%E8%98%AD%E8%A8%AD%E6%B2%BB%E7%B4%80%E5%BF%B5%E9%A4%A8)을 대신 선택 |
 |  | 17:00–20:00 | 이란 시내 저녁: [훙러우 중식당(紅樓中餐廳, 훙러우 중찬팅)](https://www.google.com/maps/search/?api=1&query=%E7%B4%85%E6%A8%93%E4%B8%AD%E9%A4%90%E5%BB%B3+%E5%AE%9C%E8%98%AD) 예약 또는 [동먼 야시장](https://www.google.com/maps/search/?api=1&query=Yilan+Dongmen+Night+Market) | 6명이 한 상에서 오리 요리를 먹고 싶으면 훙러우를 먼저 예약. 항공편이 늦으면 야시장으로 변경 |
 | 3/27 토 | 08:30–09:30 | 아침 후 증류소로 이동 | 이란역 부근에서 택시 또는 버스. 10시 방문을 목표로 여유 있게 출발 |
-|  | 10:00–12:30 | **[카발란 증류소](https://www.google.com/maps/search/?api=1&query=Kavalan+Whisky+Distillery+Yilan)**: 제조 과정 견학, 시음, 숍 | [공식 투어 예약 페이지](https://www.kavalanwhisky.com/en/reservation.php?act=distillery)에서 6명 예약 가능 여부와 안내 언어 확인. DIY 블렌딩 또는 유료 시음은 별도 확인 |
+|  | 10:00–12:30 | **[카발란 증류소](https://www.google.com/maps/search/?api=1&query=Kavalan+Whisky+Distillery+Yilan)**: 제조 과정 견학, 시음, 숍 | [공식 투어 예약 페이지](https://www.kavalanwhisky.com/en/reservation.php?act=distillery)에서 6명 예약 가능 여부와 안내 언어 확인. DIY 블렌딩 또는 유료 시음은 별도 확인. 증류소 숍 쇼핑 20–30분 배정 |
 |  | 12:30–14:00 | [바자 휴양 어장(八甲休閒魚場, 바자 시우셴 위창)](https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E7%94%B2%E4%BC%91%E9%96%92%E9%AD%9A%E5%A0%B4+%E5%93%A1%E5%B1%B1)에서 점심 | 위안산향의 은어 요리 식당. 증류소에서 택시로 이동하고, 토요일 6명 좌석을 사전 문의 |
 |  | 14:00–16:00 | 원산(員山, 위안산) 주변 자유시간 | 점심 식당과 같은 바자로의 [승양 수초 휴양 농장(勝洋休閒農場, 성양 시우셴 농창)](https://www.google.com/maps/search/?api=1&query=%E5%8B%9D%E6%B4%8B%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4+%E5%AE%9C%E8%98%AD), 호수 산책을 원하면 [왕룽피(望龍埤, 왕룽피)](https://www.google.com/maps/search/?api=1&query=%E6%9C%9B%E9%BE%8D%E5%9F%A4+%E5%93%A1%E5%B1%B1), 시음이 우선이면 [짐스 대디 양조장](https://www.google.com/maps/search/?api=1&query=Jim+and+Dads+Brewing+Company+Yilan) 중 **한 곳** 선택. 차량 이동과 저녁 복귀 시간을 확보 |
+|  | 16:00–저녁 전 | [지우러 이란점(酒樂, 지우러)](https://www.google.com/maps/search/?api=1&query=%E9%85%92%E6%A8%82+%E5%AE%9C%E8%98%AD%E5%B8%82%E6%96%B0%E6%B0%91%E8%B7%AF84%E8%99%9F) 선택 방문 | 원산에서 시내로 돌아와 동먼 야시장에 가기 전 20–30분 쇼핑. **토요일 영업을 전화로 확인한 경우에만** 들른다. [이동 경로·매장 정보](LIQUOR_SHOPS.md) |
 |  | 저녁 | [이란 동먼 야시장](https://www.google.com/maps/search/?api=1&query=Yilan+Dongmen+Night+Market)에서 여러 로컬 음식을 나눠 먹거나 이란 시내 식사 | 6명이 한 테이블에 앉는 방식이 아니므로 취향대로 나눠 먹고 합류하는 일정. 이후 이란 시내 위스키 바는 [별도 목록](WHISKY_BARS.md) 참고 |
 | 3/28 일 | 08:30–09:00 | 짐 정리·Airbnb 체크아웃 | 세 후보 모두 **11:00 이전 퇴실**. 자오시를 갈 경우 아침에 일찍 퇴실하고 짐 이동·보관 방법을 결정 |
 |  | 09:00–12:00 | 이란시 [이샹 식당(一香飲食店, 이샹 인스뎬)](https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E9%A6%99%E9%A3%B2%E9%A3%9F%E5%BA%97+%E5%BA%B7%E6%A8%82%E8%B7%AF137%E5%B7%B77%E8%99%9F)에서 마장면·완탕 아침 겸 점심, 또는 [자오시역](https://www.google.com/maps/search/?api=1&query=Jiaoxi+Station+Yilan)·[탕웨이거우 온천공원](https://www.google.com/maps/search/?api=1&query=Tangweigou+Hot+Spring+Park+Jiaoxi) | 6명 좌석과 대기를 고려하면 이샹은 일찍 방문. 자오시를 선택하면 짐 보관 가능 여부와 공항행 열차 시각 확인 |
@@ -39,7 +40,7 @@
 
 **공식 예약:** [카발란 증류소 투어 예약 페이지](https://www.kavalanwhisky.com/en/reservation.php?act=distillery). 처음 접속하면 성인 여부 확인 화면이 표시된다. 예약 페이지는 카발란 [공식 링크 모음](https://linktr.ee/kavalanwhisky)의 “Distillery Tour Reservation”에서도 찾을 수 있다. 품평실 이용은 [별도 안내 링크](https://bit.ly/KavalanWarehouseTasting)를 확인한다.
 
-**주류 쇼핑:** [타이베이·이란 리커샵과 카발란 증류소 숍 목록](LIQUOR_SHOPS.md)을 참고한다.
+**주류 쇼핑:** [이동 동선에 맞춰 고른 리커샵과 카발란 증류소 숍](LIQUOR_SHOPS.md)을 참고한다. 26일 일찍 도착하면 이란 양조장 전시판매센터, 28일 자오시 코스를 택하면 지우러 자오시점을 추가로 고려할 수 있다. 두 곳 모두 운영시간과 귀국 동선을 먼저 확인한다.
 
 **위스키 바:** [이란·타이베이 추천 위스키 바](WHISKY_BARS.md)를 참고한다. 이란 숙박 일정에는 이란시 바가 동선에 맞다.
 

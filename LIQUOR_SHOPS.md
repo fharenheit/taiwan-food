@@ -1,6 +1,17 @@
 # 대만 리커샵 — 카발란 여행 동선 중심
 
-**확인일:** 2026년 9월 28일. 타이베이·이란에서 위스키를 살펴볼 만한 매장과 생산자 직영 숍을 모았다. 중국어 상호·주소에는 보통화 발음을 한글로 함께 적었다. 아래는 유명도 순위가 아니다. 지점 운영시간, 원하는 제품의 재고와 가격은 방문 직전에 공식 사이트 또는 전화로 확인하자.
+**확인일:** 2026년 9월 29일. 타이베이·이란에서 위스키를 살펴볼 만한 매장과 생산자 직영 숍을 모았다. 중국어 상호·주소에는 보통화 발음을 한글로 함께 적었다. 아래는 유명도 순위가 아니다. 지점 운영시간, 원하는 제품의 재고와 가격은 방문 직전에 공식 사이트 또는 전화로 확인하자.
+
+## 2박 3일 이동 동선에 넣는 순서
+
+| 우선순위 | 언제·매장 | 일정에 맞는 이유와 이동 경로 |
+|---|---|---|
+| **1 · 확정 코스 안** | **3/27 카발란 증류소 숍** | [증류소 투어](KAVALAN_TRIP_2027.md)와 같은 부지라 별도 이동이 없다. 투어·시음 후 20–30분을 쇼핑에 배정한다. [증류소 Google Maps](https://www.google.com/maps/search/?api=1&query=Kavalan+Whisky+Distillery+Yilan) · [관광 안내](https://travel.yilan.gov.tw/zh-tw/attraction/442/) |
+| **2 · 이란 시내 복귀 후** | **3/27 지우러(酒樂, 지우러) 이란점** | 오후 농장 방문을 택했다면 [승양 농장 → 매장 택시 경로](https://www.google.com/maps/dir/?api=1&origin=%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%85%AB%E7%94%B2%E8%B7%AF15-6%E8%99%9F&destination=%E5%AE%9C%E8%98%AD%E5%B8%82%E6%96%B0%E6%B0%91%E8%B7%AF84%E8%99%9F&travelmode=driving) → [동먼 야시장 도보 경로](https://www.google.com/maps/dir/?api=1&origin=%E5%AE%9C%E8%98%AD%E5%B8%82%E6%96%B0%E6%B0%91%E8%B7%AF84%E8%99%9F&destination=Yilan%20Dongmen%20Night%20Market&travelmode=walking)로 묶는다. **토요일 영업시간·재고는 확인되지 않았으므로** 먼저 전화(03-932-5085)해 방문 가능할 때만 넣는다. [브랜드 판매점 명단](https://www.speywhisky.com/download/0/SSM/) |
+| **3 · 26일 일찍 도착하면** | **이란 양조장(宜蘭酒廠, 이란 지우창) 전시판매센터** | 지미 광장·설지 기념관에서 구시가지로 걷는 선택 코스. [이란역 → 전시판매센터 도보 경로](https://www.google.com/maps/dir/?api=1&origin=Yilan%20Station&destination=%E5%AE%9C%E8%98%AD%E5%B8%82%E8%88%8A%E5%9F%8E%E8%A5%BF%E8%B7%AF3%E8%99%9F&travelmode=walking). TTL 안내의 **평일 영업은 08:00–17:00**이므로 체크인·관광 후 늦어지면 생략한다. 카발란보다 TTL의 지역 주류·선물에 관심이 있을 때 적합하다. [TTL 공식 안내](https://en.ttl.com.tw/yilan/menu.asp?MenuID=18) |
+| **선택 · 자오시 경유 시** | **3/28 지우러(酒樂, 지우러) 자오시점** | 자오시 온천 코스를 택하고 매장 영업과 열차 시간이 맞을 때만 [탕웨이거우 온천공원 → 매장 도보 경로](https://www.google.com/maps/dir/?api=1&origin=Tangweigou%20Hot%20Spring%20Park%20Jiaoxi&destination=%E5%AE%9C%E8%98%AD%E7%B8%A3%E7%A4%81%E6%BA%AA%E9%84%89%E7%A4%81%E6%BA%AA%E8%B7%AF%E4%BA%94%E6%AE%B5162%E8%99%9F&travelmode=walking)로 들른다. **일요일 영업시간은 확인되지 않았다.** 귀국일에는 6명의 짐과 공항행 출발 시간을 우선한다. 전화 03-988-5358. [브랜드 판매점 명단](https://www.speywhisky.com/download/0/SSM/) |
+
+타이베이의 네 매장은 이번 계획의 **타이베이역 환승 → 공항 MRT** 경로에서 추가 이동이 필요하다. 28일 항공편과 수하물 여유가 확인되기 전까지는 핵심 동선에 넣지 않는다. [날짜별 이동 동선 지도](ROUTE_MAP.md)에서 각 구간을 확인할 수 있다.
 
 ## 타이베이
 
@@ -20,4 +31,4 @@
 | **카발란 증류소 숍** | 27일 투어 때 카발란 제품을 직접 살펴볼 수 있는 곳. 한정판·구매 가능 제품은 현장에서 확인. | 이란현 위안산향 위안산로 2단 326호 (宜蘭縣員山鄉員山路二段326號) · [Google Maps](https://www.google.com/maps/search/?api=1&query=Kavalan+Whisky+Distillery+Yilan) | [카발란 공식 투어 예약](https://www.kavalanwhisky.com/en/reservation.php?act=distillery) · [이란현 관광 안내](https://travel.yilan.gov.tw/zh-tw/attraction/442/) |
 | **이란 양조장(宜蘭酒廠, 이란 지우창) 전시판매센터** | 대만담배주류공사(TTL)의 홍루주 등 대만 주류와 선물을 함께 보기 좋다. | 이란현 이란시 지우청시로 3호 (宜蘭縣宜蘭市舊城西路3號) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%E5%AE%9C%E8%98%AD%E9%85%92%E5%BB%A0+%E8%88%8A%E5%9F%8E%E8%A5%BF%E8%B7%AF3%E8%99%9F) | [TTL 공식 안내](https://en.ttl.com.tw/yilan/menu.asp?MenuID=18) · 03-935-5526 |
 
-**여행에 넣는다면:** 26일 이란 도착 후에는 지우러(酒樂) 이란점이나 이란 양조장(宜蘭酒廠, 이란 지우창), 27일에는 카발란 증류소 숍을 살펴볼 수 있다. 28일 자오시를 방문할 때는 지우러(酒樂) 자오시점이 후보가 된다. 타이베이 매장은 항공편 시간에 여유가 있을 때 방문 시간을 따로 확보하자. 여러 병을 살 계획이라면 항공사 수하물 규정과 한국 입국 시 주류 면세 기준을 구매 시점에 확인해야 한다.
+여러 병을 살 계획이라면 항공사 수하물 규정과 한국 입국 시 주류 면세 기준을 구매 시점에 확인해야 한다.
