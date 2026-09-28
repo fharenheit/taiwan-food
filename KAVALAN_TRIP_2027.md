@@ -12,15 +12,28 @@
 |---|---|---|---|
 | 3/26 금 | 낮–15:00 | [타오위안공항](https://www.google.com/maps/search/?api=1&query=Taiwan+Taoyuan+International+Airport) → [타이베이역](https://www.google.com/maps/search/?api=1&query=Taipei+Main+Station) → [이란역](https://www.google.com/maps/search/?api=1&query=Yilan+Station) | 공항 MRT와 대만철도 이용. 15:00보다 일찍 도착하면 숙소 입실 가능 시각까지 짐 보관 방법 확인 |
 |  | 15:00–16:00 | Airbnb 체크인 | Jessie House는 15:00–21:00, Lucid Dream은 15:00–17:00, 우제 타운하우스는 15:00 이후 입실. 선택한 숙소의 규칙을 다시 확인 |
+|  | 16:00–17:00 | [지미 광장(幾米廣場, 지미 광창)·디우디우당 숲 공원(丟丟噹森林公園, 디우디우당 선린 궁위안)](https://www.google.com/maps/search/?api=1&query=%E5%B9%BE%E7%B1%B3%E5%BB%A3%E5%A0%B4+%E5%AE%9C%E8%98%AD) 산책·사진 | 이란역 바로 앞이라 숙소 위치와 도착 시각이 맞으면 20–40분 들르기 좋음. 실내 관광을 원하면 17:00에 닫는 [이란 설지 기념관(宜蘭設治紀念館, 이란 서즈 지녠관)](https://www.google.com/maps/search/?api=1&query=%E5%AE%9C%E8%98%AD%E8%A8%AD%E6%B2%BB%E7%B4%80%E5%BF%B5%E9%A4%A8)을 대신 선택 |
 |  | 17:00–20:00 | 이란 시내 저녁: [훙러우 중식당(紅樓中餐廳, 훙러우 중찬팅)](https://www.google.com/maps/search/?api=1&query=%E7%B4%85%E6%A8%93%E4%B8%AD%E9%A4%90%E5%BB%B3+%E5%AE%9C%E8%98%AD) 예약 또는 [동먼 야시장](https://www.google.com/maps/search/?api=1&query=Yilan+Dongmen+Night+Market) | 6명이 한 상에서 오리 요리를 먹고 싶으면 훙러우를 먼저 예약. 항공편이 늦으면 야시장으로 변경 |
 | 3/27 토 | 08:30–09:30 | 아침 후 증류소로 이동 | 이란역 부근에서 택시 또는 버스. 10시 방문을 목표로 여유 있게 출발 |
 |  | 10:00–12:30 | **[카발란 증류소](https://www.google.com/maps/search/?api=1&query=Kavalan+Whisky+Distillery+Yilan)**: 제조 과정 견학, 시음, 숍 | [공식 투어 예약 페이지](https://www.kavalanwhisky.com/en/reservation.php?act=distillery)에서 6명 예약 가능 여부와 안내 언어 확인. DIY 블렌딩 또는 유료 시음은 별도 확인 |
 |  | 12:30–14:00 | [바자 휴양 어장(八甲休閒魚場, 바자 시우셴 위창)](https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E7%94%B2%E4%BC%91%E9%96%92%E9%AD%9A%E5%A0%B4+%E5%93%A1%E5%B1%B1)에서 점심 | 위안산향의 은어 요리 식당. 증류소에서 택시로 이동하고, 토요일 6명 좌석을 사전 문의 |
-|  | 14:00–16:00 | 원산(員山, 위안산) 주변 자유시간 | 가까운 [짐스 대디 양조장 지도](https://www.google.com/maps/search/?api=1&query=Jim+and+Dads+Brewing+Company+Yilan) 또는 이란 시내. 추가 시음 시 택시 이용. [양조장 안내](https://travel.yilan.gov.tw/zh-tw/attraction/446/) |
+|  | 14:00–16:00 | 원산(員山, 위안산) 주변 자유시간 | 점심 식당과 같은 바자로의 [승양 수초 휴양 농장(勝洋休閒農場, 성양 시우셴 농창)](https://www.google.com/maps/search/?api=1&query=%E5%8B%9D%E6%B4%8B%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4+%E5%AE%9C%E8%98%AD), 호수 산책을 원하면 [왕룽피(望龍埤, 왕룽피)](https://www.google.com/maps/search/?api=1&query=%E6%9C%9B%E9%BE%8D%E5%9F%A4+%E5%93%A1%E5%B1%B1), 시음이 우선이면 [짐스 대디 양조장](https://www.google.com/maps/search/?api=1&query=Jim+and+Dads+Brewing+Company+Yilan) 중 **한 곳** 선택. 차량 이동과 저녁 복귀 시간을 확보 |
 |  | 저녁 | [이란 동먼 야시장](https://www.google.com/maps/search/?api=1&query=Yilan+Dongmen+Night+Market)에서 여러 로컬 음식을 나눠 먹거나 이란 시내 식사 | 6명이 한 테이블에 앉는 방식이 아니므로 취향대로 나눠 먹고 합류하는 일정. 이후 이란 시내 위스키 바는 [별도 목록](WHISKY_BARS.md) 참고 |
 | 3/28 일 | 08:30–09:00 | 짐 정리·Airbnb 체크아웃 | 세 후보 모두 **11:00 이전 퇴실**. 자오시를 갈 경우 아침에 일찍 퇴실하고 짐 이동·보관 방법을 결정 |
 |  | 09:00–12:00 | 이란시 [이샹 식당(一香飲食店, 이샹 인스뎬)](https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E9%A6%99%E9%A3%B2%E9%A3%9F%E5%BA%97+%E5%BA%B7%E6%A8%82%E8%B7%AF137%E5%B7%B77%E8%99%9F)에서 마장면·완탕 아침 겸 점심, 또는 [자오시역](https://www.google.com/maps/search/?api=1&query=Jiaoxi+Station+Yilan)·[탕웨이거우 온천공원](https://www.google.com/maps/search/?api=1&query=Tangweigou+Hot+Spring+Park+Jiaoxi) | 6명 좌석과 대기를 고려하면 이샹은 일찍 방문. 자오시를 선택하면 짐 보관 가능 여부와 공항행 열차 시각 확인 |
 |  | 13:00–16:00 | 이란 → 타이베이역 → 타오위안공항 | **저녁 이후 항공편**을 전제로 한 여유 시간. 실제 항공편에 맞춰 앞당길 것 |
+
+### 이동 중 들르기 좋은 관광지
+
+| 날짜·추천도 | 장소·Google Maps | 일정에 넣는 방법 |
+|---|---|---|
+| **26일 · 가장 쉬움** | [지미 광장(幾米廣場, 지미 광창)·디우디우당 숲 공원(丟丟噹森林公園, 디우디우당 선린 궁위안)](https://www.google.com/maps/search/?api=1&query=%E5%B9%BE%E7%B1%B3%E5%BB%A3%E5%A0%B4+%E5%AE%9C%E8%98%AD) | 이란역 맞은편의 그림책 조형물과 공중 열차. 무료 야외 공간으로 24시간 개방하며, 도착·체크인 시간에 따라 **20–40분** 산책. [이란현 관광 안내](https://travel.yilan.gov.tw/zh-tw/attraction/232/) |
+| **26일 · 일찍 도착하면** | [이란 설지 기념관(宜蘭設治紀念館, 이란 서즈 지녠관)](https://www.google.com/maps/search/?api=1&query=%E5%AE%9C%E8%98%AD%E8%A8%AD%E6%B2%BB%E7%B4%80%E5%BF%B5%E9%A4%A8) | 일본식 관저와 정원. 금요일 **09:00–17:00** 운영이라 늦게 도착하면 실내 관람이 어렵다. 이란역에서 도보 약 10분이며, 훙러우 저녁 식사 전 들르기 좋다. 현행 일반 입장료 **NT$30 (약 ₩1,300)**. [이란현 관광 안내](https://travel.yilan.gov.tw/zh-tw/attraction/312/) |
+| **27일 · 점심 직후 추천** | [승양 수초 휴양 농장(勝洋休閒農場, 성양 시우셴 농창)](https://www.google.com/maps/search/?api=1&query=%E5%8B%9D%E6%B4%8B%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4+%E5%AE%9C%E8%98%AD) | 바자 어장과 **같은 바자로**에 있는 수초·생태 농장. 토요일 **09:30–17:00** 운영. 점심 뒤 **45–60분** 둘러보고 시내로 복귀하기 좋다. 체험·카페 운영은 별도 확인. [이란현 관광 안내](https://travel.yilan.gov.tw/zh-tw/attraction/288/) |
+| **27일 · 자연 산책 대안** | [왕룽피(望龍埤, 왕룽피)](https://www.google.com/maps/search/?api=1&query=%E6%9C%9B%E9%BE%8D%E5%9F%A4+%E5%93%A1%E5%B1%B1) | 호수와 정자 풍경. **08:00–18:00** 개방. 바자 어장에서 시내로 바로 돌아가는 경로에 포함되지 않으므로 택시를 이용해 30–45분 호숫가만 걷는 대안으로 잡는다. 전체 둘레길은 약 2.6km라 더 오래 걸릴 수 있다. [이란현 관광 안내](https://travel.yilan.gov.tw/zh-tw/attraction/410/) |
+| **28일 · 이미 일정에 포함** | [탕웨이거우 온천공원(湯圍溝溫泉公園, 탕웨이거우 원취안 궁위안)](https://www.google.com/maps/search/?api=1&query=Tangweigou+Hot+Spring+Park+Jiaoxi) | 자오시를 선택할 때 무료 족욕과 산책. 일요일 **08:00–12:00, 13:00–21:30** 운영 안내. 귀국일에는 열차·공항 이동 시간을 먼저 확보한다. [이란현 관광 안내](https://travel.yilan.gov.tw/zh-tw/attraction/92/) |
+
+**우선순위:** 26일 지미 광장은 거의 이동 부담이 없고, 27일에는 점심 뒤 승양 농장 한 곳을 넣는 구성이 무난하다. 왕룽피·짐스 대디 양조장까지 모두 넣으면 오후 일정이 빠듯해진다. 개방시간·입장료와 체험 예약은 2027년 출발 전에 다시 확인한다.
 
 증류소는 **이란현 원산향 원산로 2단 326호(宜蘭縣員山鄉員山路二段326號)**에 있다. 이란현 관광 안내의 개방시간은 **매일 09:00–18:00**이다. 카발란은 **2026년 3월 1일부터 입장료를 적용**한다고 공지했다. 현재 일반 입장료로 안내되는 금액은 **NT$200 (약 ₩8,600)**이며, 2027년 금액은 예약 전에 확인해야 한다. 전화는 **+886-3-922-9000 내선 1104**다. [이란현 관광 안내](https://travel.yilan.gov.tw/zh-tw/attraction/442/), [카발란 입장료 공지](https://www.kavalanwhisky.com/en/news.php?act=view&id=262), [현행 요금 설명](https://taiwanderers.com/kavalan-whisky-distillery-yilan/)
 
@@ -38,6 +51,34 @@
 | 3/27 점심 | **바자 휴양 어장(八甲休閒魚場, 바자 시우셴 위창)**: 위안산향 은어 요리 | 이란현 위안산향 바자로 1-9호(宜蘭縣員山鄉八甲路1-9號) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%E5%85%AB%E7%94%B2%E4%BC%91%E9%96%92%E9%AD%9A%E5%A0%B4+%E5%93%A1%E5%B1%B1) · [이란현 관광 안내](https://travel.yilan.gov.tw/zh-tw/attraction/440/) · 토요일 점심 영업 안내는 11:00–14:30. 6명 예약·메뉴 확인 |
 | 3/27 저녁 | **동먼 야시장(東門夜市, 둥먼 예스)**: 파전, 튀김, 국수 등 로컬 음식 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yilan+Dongmen+Night+Market) · [이란현 관광 안내](https://travel.yilan.gov.tw/zh-tw/attraction/233/) · 단체 좌석을 기대하기 어려워 여러 가게를 자유롭게 이용 |
 | 3/28 아침 겸 점심 | **이샹 식당(一香飲食店, 이샹 인스뎬)**: 마장면·완탕탕 | 이란시 캉러로 137항 7호(宜蘭市康樂路137巷7號) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E9%A6%99%E9%A3%B2%E9%A3%9F%E5%BA%97+%E5%BA%B7%E6%A8%82%E8%B7%AF137%E5%B7%B77%E8%99%9F) · [매장 정보](https://supertaste.tvbs.com.tw/infocard/5977) · 시장 안 작은 식당이라 6명이 동시에 앉기 어려울 수 있음 |
+
+### 추천 음식 사진과 출처
+
+아래 사진은 **음식을 알아보기 위한 예시**다. 추천 식당에서 촬영한 사진이 아니며 실제 조리법·담음새와 다를 수 있다. 동먼 야시장은 가게별 판매 메뉴가 달라 방문 당일 확인해야 한다. 사진은 Wikimedia Commons의 가로 960픽셀 축소본을 받아 문서에 넣었으며, 자르거나 보정하지 않았다.
+
+**3/26 훙러우 중식당 — 오리구이 요리 예시**
+
+<img src="images/food/roast-duck.jpg" alt="얇게 썬 오리구이와 전병, 채소가 놓인 접시" width="440">
+
+사진: [Danrah, *Peking Duck*](https://commons.wikimedia.org/wiki/File:Peking_Duck.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 베이징의 다른 식당에서 촬영한 오리구이로, 훙러우의 체리덕 사진은 아니다.
+
+**3/27 바자 휴양 어장 — 은어구이 예시**
+
+<img src="images/food/grilled-sweetfish.jpg" alt="숯불 위에서 꼬치에 꽂힌 은어를 굽는 모습" width="440">
+
+사진: [Tomomarusan, *Charcoal broiled Ayu*](https://commons.wikimedia.org/wiki/File:Charcoal_broiled_Ayu.JPG), [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/). 일본에서 촬영한 은어구이로, 바자 어장의 실제 메뉴 사진은 아니다.
+
+**3/27 동먼 야시장 — 이란식 파전(蔥油餅, 충유빙) 예시**
+
+<img src="images/food/yilan-scallion-pancake.jpg" alt="이란의 노점에서 달걀을 넣은 파전을 철판에 굽는 모습" width="440">
+
+사진: [bryan..., *Food 蔥油餅, 大溪, 宜蘭*](https://commons.wikimedia.org/wiki/File:Food_%E8%94%A5%E6%B2%B9%E9%A4%85%2C_%E6%AB%BB%E8%8A%B1%E8%9D%A6%E8%94%A5%E6%B2%B9%E9%A4%85%2C_%E5%90%BB%E4%BB%94%E9%AD%9A%E8%94%A5%E6%B2%B9%E9%A4%85%2C_%E5%A4%A7%E6%BA%AA%2C_%E5%AE%9C%E8%98%AD_%2815802215428%29.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). 이란현 다시에 있는 가게 사진이며 동먼 야시장 사진은 아니다.
+
+**3/28 이샹 식당 — 마장면(麻醬麵, 마장몐) 예시**
+
+<img src="images/food/sesame-noodles.jpg" alt="참깨 소스를 얹은 마장면 한 그릇" width="440">
+
+사진: [NeoBatfreak, *Noodles With Sesame Sauce*](https://commons.wikimedia.org/wiki/File:Noodles_With_Sesame_Sauce_%28%E9%BA%BB%E9%86%AC%E9%BA%B5%29.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 다른 곳에서 만든 마장면으로, 이샹 식당의 실제 음식 사진은 아니다.
 
 식당 영업시간과 2027년 예약 가능 여부는 아직 확정되지 않았다. **훙러우와 바자 어장은 출발 전에 6명 자리와 메뉴를 확인**하고, 항공편 도착이 늦으면 첫날 예약 시각을 무리하게 잡지 않는다.
 

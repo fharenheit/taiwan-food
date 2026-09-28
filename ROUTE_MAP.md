@@ -12,21 +12,25 @@ Airbnb가 아직 확정되지 않아 **이란역을 숙소 이동의 기준점**
 |---|---|---|
 | 공항 → 타이베이역 | [Google Maps 길찾기](https://www.google.com/maps/dir/?api=1&origin=Taiwan%20Taoyuan%20International%20Airport&destination=Taipei%20Main%20Station&travelmode=transit) | 공항 MRT |
 | 타이베이역 → 이란역 | [Google Maps 길찾기](https://www.google.com/maps/dir/?api=1&origin=Taipei%20Main%20Station&destination=Yilan%20Station&travelmode=transit) | 대만철도(TRA) |
+| 이란역 → 지미 광장(幾米廣場, 지미 광창) | [Google Maps 도보 길찾기](https://www.google.com/maps/dir/?api=1&origin=Yilan%20Station&destination=%E5%B9%BE%E7%B1%B3%E5%BB%A3%E5%A0%B4%20%E5%AE%9C%E8%98%AD&travelmode=walking) | 역 앞 관광지. 도착 시간이 맞으면 산책 |
+| 지미 광장 → 이란 설지 기념관(宜蘭設治紀念館, 이란 서즈 지녠관) | [Google Maps 도보 길찾기](https://www.google.com/maps/dir/?api=1&origin=%E5%B9%BE%E7%B1%B3%E5%BB%A3%E5%A0%B4%20%E5%AE%9C%E8%98%AD&destination=%E5%AE%9C%E8%98%AD%E8%A8%AD%E6%B2%BB%E7%B4%80%E5%BF%B5%E9%A4%A8&travelmode=walking) | 17:00 폐관 전 도착할 때만 선택 |
 | 이란역 → 훙러우 중식당(紅樓中餐廳, 훙러우 중찬팅) | [Google Maps 도보 길찾기](https://www.google.com/maps/dir/?api=1&origin=Yilan%20Station&destination=%E7%B4%85%E6%A8%93%E4%B8%AD%E9%A4%90%E5%BB%B3%20%E5%AE%9C%E8%98%AD%E5%B8%82%E6%B0%91%E6%AC%8A%E8%B7%AF%E4%BA%8C%E6%AE%B536%E8%99%9F&travelmode=walking) | 예약 저녁 후보 |
 | 이란역 → 동먼 야시장(東門夜市, 둥먼 예스) | [Google Maps 도보 길찾기](https://www.google.com/maps/dir/?api=1&origin=Yilan%20Station&destination=Yilan%20Dongmen%20Night%20Market&travelmode=walking) | 늦은 도착 시 저녁 대안 |
 
 ## 3월 27일(토) · 카발란 증류소 중심
 
-**[이란역 → 카발란 증류소 → 바자 휴양 어장 → 동먼 야시장 전체 동선을 지도에서 보기](https://www.google.com/maps/dir/?api=1&origin=Yilan%20Station&destination=Yilan%20Dongmen%20Night%20Market&travelmode=driving&waypoints=%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%93%A1%E5%B1%B1%E8%B7%AF%E4%BA%8C%E6%AE%B5326%E8%99%9F%7C%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%85%AB%E7%94%B2%E8%B7%AF1-9%E8%99%9F)** — 중간 방문지 2곳을 포함한 **택시 이동 기준**의 Google Maps 경로다.
+**[이란역 → 카발란 증류소 → 바자 휴양 어장 → 승양 수초 농장 → 동먼 야시장 전체 동선을 지도에서 보기](https://www.google.com/maps/dir/?api=1&origin=Yilan%20Station&destination=Yilan%20Dongmen%20Night%20Market&travelmode=driving&waypoints=%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%93%A1%E5%B1%B1%E8%B7%AF%E4%BA%8C%E6%AE%B5326%E8%99%9F%7C%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%85%AB%E7%94%B2%E8%B7%AF1-9%E8%99%9F%7C%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%85%AB%E7%94%B2%E8%B7%AF15-6%E8%99%9F)** — 중간 방문지 3곳을 포함한 **택시 이동 기준**의 Google Maps 경로다. 점심 식당과 농장 사이 구간은 아래 도보 길찾기도 확인한다.
 
 | 구간 | 지도에서 경로 보기 | 이동 |
 |---|---|---|
 | 이란역 → 카발란 증류소(宜蘭縣員山鄉員山路二段326號, 이란현 위안산향 위안산로 2단 326호) | [대중교통 길찾기](https://www.google.com/maps/dir/?api=1&origin=Yilan%20Station&destination=%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%93%A1%E5%B1%B1%E8%B7%AF%E4%BA%8C%E6%AE%B5326%E8%99%9F&travelmode=transit) · [택시 경로](https://www.google.com/maps/dir/?api=1&origin=Yilan%20Station&destination=%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%93%A1%E5%B1%B1%E8%B7%AF%E4%BA%8C%E6%AE%B5326%E8%99%9F&travelmode=driving) | 752번 버스 또는 택시. 버스 정류장·운행 시각 확인 |
 | 카발란 증류소 → 바자 휴양 어장(八甲休閒魚場, 바자 시우셴 위창) | [택시 경로](https://www.google.com/maps/dir/?api=1&origin=%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%93%A1%E5%B1%B1%E8%B7%AF%E4%BA%8C%E6%AE%B5326%E8%99%9F&destination=%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%85%AB%E7%94%B2%E8%B7%AF1-9%E8%99%9F&travelmode=driving) | 점심 식당으로 이동 |
+| 바자 어장 → 승양 수초 농장(勝洋休閒農場, 성양 시우셴 농창) | [Google Maps 길찾기](https://www.google.com/maps/dir/?api=1&origin=%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%85%AB%E7%94%B2%E8%B7%AF1-9%E8%99%9F&destination=%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%85%AB%E7%94%B2%E8%B7%AF15-6%E8%99%9F&travelmode=walking) | 점심 뒤 가까운 관광지. 실제 보행 경로 확인 |
+| 승양 수초 농장 → 동먼 야시장 | [택시 경로](https://www.google.com/maps/dir/?api=1&origin=%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%85%AB%E7%94%B2%E8%B7%AF15-6%E8%99%9F&destination=Yilan%20Dongmen%20Night%20Market&travelmode=driving) | 농장 방문 시 시내 복귀 경로 |
 | 바자 휴양 어장 → 동먼 야시장 | [택시 경로](https://www.google.com/maps/dir/?api=1&origin=%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%85%AB%E7%94%B2%E8%B7%AF1-9%E8%99%9F&destination=Yilan%20Dongmen%20Night%20Market&travelmode=driving) | 이란 시내로 복귀 |
 | 동먼 야시장 → 웨이라오 위스키 클럽(威佬威士忌會所, 웨이라오 웨이스지 후이쒀) | [도보 길찾기](https://www.google.com/maps/dir/?api=1&origin=Yilan%20Dongmen%20Night%20Market&destination=%E5%AE%9C%E8%98%AD%E5%B8%82%E5%A5%B3%E4%B8%AD%E8%B7%AF%E4%B8%89%E6%AE%B555%E8%99%9F&travelmode=walking) | 선택 코스. 거리와 영업시간 확인 |
 
-오후에 짐스 대디 양조장을 선택하면 [바자 어장 → 짐스 대디 양조장 택시 경로](https://www.google.com/maps/dir/?api=1&origin=%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%85%AB%E7%94%B2%E8%B7%AF1-9%E8%99%9F&destination=Jim%20%26%20Dad's%20Brewing%20Company%20Yilan&travelmode=driving)를 이용한다. 시음 후 운전은 피한다.
+오후에 자연 산책을 선택하면 [바자 어장 → 왕룽피(望龍埤, 왕룽피) 택시 경로](https://www.google.com/maps/dir/?api=1&origin=%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%85%AB%E7%94%B2%E8%B7%AF1-9%E8%99%9F&destination=%E6%9C%9B%E9%BE%8D%E5%9F%A4%20%E5%93%A1%E5%B1%B1&travelmode=driving)를, 추가 시음이 우선이면 [바자 어장 → 짐스 대디 양조장 택시 경로](https://www.google.com/maps/dir/?api=1&origin=%E5%AE%9C%E8%98%AD%E7%B8%A3%E5%93%A1%E5%B1%B1%E9%84%89%E5%85%AB%E7%94%B2%E8%B7%AF1-9%E8%99%9F&destination=Jim%20%26%20Dad's%20Brewing%20Company%20Yilan&travelmode=driving)를 이용한다. 두 곳 모두 기본 경로에서는 빠진 **선택 코스**다. 시음 후 운전은 피한다.
 
 ## 3월 28일(일) · 체크아웃 → 선택 코스 → 공항
 
