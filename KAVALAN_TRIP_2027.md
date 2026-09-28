@@ -22,6 +22,8 @@
 
 **공식 예약:** [카발란 증류소 투어 예약 페이지](https://www.kavalanwhisky.com/en/reservation.php?act=distillery). 처음 접속하면 성인 여부 확인 화면이 표시된다. 예약 페이지는 카발란 [공식 링크 모음](https://linktr.ee/kavalanwhisky)의 “Distillery Tour Reservation”에서도 찾을 수 있다. 품평실 이용은 [별도 안내 링크](https://bit.ly/KavalanWarehouseTasting)를 확인한다.
 
+**주류 쇼핑:** [타이베이·이란 리커샵과 카발란 증류소 숍 목록](LIQUOR_SHOPS.md)을 참고한다.
+
 ### 주요 장소 Google Maps
 
 | 장소 | 지도 | 용도 |
@@ -35,6 +37,21 @@
 | 이란 동먼 야시장 | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yilan+Dongmen+Night+Market) | 저녁 식사 후보 |
 
 ## 교통편
+
+### 결제 방법: 공항에서 이란까지
+
+**가장 간단한 조합:** 타오위안공항에서 각자 EasyCard를 준비해 공항 MRT·이란 버스에 쓰고, 타이베이↔이란 대만철도 좌석열차는 공식 **台鐵e訂通(타이톄 이딩퉁)** 앱에서 6명분을 예매한다. 공항·타이베이 MRT만 탈 때는 비접촉 신용카드나 Apple Pay도 편하다. 아래는 **2026년 9월 확인한 결제 방식**이므로 2027년 출발 직전에 다시 확인하자.
+
+| 교통수단 | 신용·체크카드 / Apple Pay | EasyCard | 실제 이용 방법 |
+|---|---|---|---|
+| **타오위안 공항 MRT**: [공항역](https://www.google.com/maps/search/?api=1&query=Taoyuan+Airport+MRT+Terminal+1+Station) → [타이베이역 A1](https://www.google.com/maps/search/?api=1&query=Taoyuan+Airport+MRT+Taipei+Main+Station+A1) | 비접촉 **Visa·Mastercard·JCB·UnionPay** 및 이에 연결된 **Apple Pay·Google Pay·Samsung Pay**로 개찰구 직접 통과 가능. **Apple Pay 익스프레스 모드는 미지원** | 사용 가능 | 카드 결제 전용 리더에 입·출구에서 **같은 실물 카드 또는 같은 기기**를 댄다. EasyCard는 별도 교통카드 리더에 댄다. [공항 MRT 공식 FAQ](https://www.tymetro.com.tw/tymetro-new/tw/_pages/service/FAQ.php?v=38) |
+| **타이베이 MRT** | 비접촉 **Visa·Mastercard·JCB** 등과 **Apple Pay·Google Pay·Samsung Pay**로 개찰구 직접 통과 가능. **Apple Pay 익스프레스 모드 지원** | 사용 가능 | 입·출구에 같은 결제 수단을 쓴다. 신용카드는 교통카드와 감응 위치가 다르므로 표시된 카드 리더를 확인한다. [타이베이 MRT 공식 안내](https://english.metro.taipei/News_Content.aspx?n=034BD8E0AB821D47&s=19CEC09373C12170&sms=5B794C46F3CDE718) |
+| **대만철도(TRA)**: [타이베이역](https://www.google.com/maps/search/?api=1&query=Taipei+Main+Station) ↔ [이란역](https://www.google.com/maps/search/?api=1&query=Yilan+Station) | 일반 신용카드·Apple Pay를 **개찰구에 대고 바로 승차하는 방식은 아니다**. 공식 앱의 열차표 결제에는 **Visa·Mastercard·JCB·Apple Pay·Google Pay** 사용 가능 | 일부 열차에서 가능. 다만 **자강 3000형·푸유마·타로코** 등은 교통카드 승차 대상에서 제외되며, 교통카드로 승차 가능한 지정석 열차도 좌석은 배정되지 않는다 | 6명이 함께 앉고 귀국 이동 시각을 맞추려면 [공식 열차 예매](https://www.railway.gov.tw/tra-tip-web/tip/tip001/tip125/query) 또는 台鐵e訂通 앱으로 **좌석표를 구매**한다. [대만철도 교통카드 규정](https://www.railway.gov.tw/tra-tip-web/tip/tip00C/tipC21/view?subCode=8ae4cac290f06c930190f390e6930537) · [모바일 티켓 결제 안내](https://tip.railway.gov.tw/tra-tip-web/tip/tip00C/tipC21/view?subCode=8ae4cac3756b7b41017573dbdd861878) |
+| **이란 시내버스**: [이란 버스터미널](https://www.google.com/maps/search/?api=1&query=Yilan+Transfer+Station) ↔ 카발란 증류소 방면 | 해외 신용카드·Apple Pay의 **차내 직접 탭 결제는 확인되지 않았다** | **EasyCard·iPASS·icash** 사용 가능 | 승차·하차 때 **모두 탭**한다. 일반 성인 요금은 교통카드 **NT$15 (약 ₩600)**, 현금 **NT$20 (약 ₩900)**이며 현금은 거스름돈이 없다. 752번의 실제 정류장·시간표는 당일 [공식 노선 조회](https://www.taiwanbus.tw/eBUSPage/Query/QueryResult.aspx?lan=E&rno=07520)에서 확인한다. [이란현 공식 교통 안내](https://travel.yilan.gov.tw/zh-tw/local-transport/) |
+
+**EasyCard 준비:** [타오위안공항 MRT 역](https://www.google.com/maps/search/?api=1&query=Taoyuan+Airport+MRT+Terminal+1+Station), [타이베이 MRT 역](https://www.google.com/maps/search/?api=1&query=Taipei+Main+Station), 주요 편의점에서 카드를 사거나 충전할 수 있다. 타이베이 MRT 역의 **카드 구매**에는 신용카드·Apple Pay도 사용할 수 있지만, **카드 충전**은 현금을 준비하는 편이 확실하다. 여섯 명이면 **1인 1장**을 준비하고 출발 때와 도착 때 같은 카드를 쓴다. [EasyCard 공식 판매·충전 장소](https://www.easycard.com.tw/service) · [타이베이 MRT 카드 구매 결제 안내](https://english.gov.taipei/News_Content.aspx?n=A0EDC3930FBE7EFC&s=A05E0C3B1C8542B4)
+
+**iPhone에서 주의할 점:** Apple Pay에 등록한 신용카드로 **공항·타이베이 MRT 개찰구를 통과**할 수 있다. 이것이 iPhone에 **EasyCard 자체를 넣은 것**과 같지는 않다. 이란 버스까지 한 가지 방식으로 이용하려면 실물 EasyCard를 준비하자. [EasyCard 공식 FAQ](https://www.easycard.com.tw/faq.php?page=19)
 
 | 구간 | 추천 경로 | 소요시간·비용 메모 |
 |---|---|---|
